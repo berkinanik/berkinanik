@@ -18,7 +18,7 @@
 <br/><br/><br/>
 
 <details>
-  <summary>Let me tell you a little more about myself</summary>
+  <summary>Let me tell you a little more about myself 🔽</summary>
   <div>
     
 - ⌨️ I'm currently using ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) (![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)) framework, ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white), ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) Motion for a responsive front-end web app.

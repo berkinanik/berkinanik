@@ -2,7 +2,7 @@
 
 - 📛 I'm Berkin Anık from 🇹🇷.
 
-- 🏫 I'm a Junior Electrical-Electronics Engineering student at [METU](https://metu.edu.tr/), and
+- 🏫 I'm a Junior Electrical-Electronics Engineering student at [METU](https://metu.edu.tr/).
 
 - 🧑‍💼 I'm working at [@DogusTeknoloji](https://github.com/DogusTeknoloji) as a Front-End Web Developer being a full time intern.
 <br/>

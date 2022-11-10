@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/berkinanik/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/berkinanik/">
+<a href="https://twitter.com/berkinanik">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <br/><br/><br/>

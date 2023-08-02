@@ -2,7 +2,7 @@
 
 - 📛 I'm Berkin Anık from 🇹🇷.
 
-- 🏫 I'm a Senior Electrical-Electronics Engineering student at [METU](https://metu.edu.tr/).
+- 🏫 I'm a B.Sc. in Electrical-Electronics Engineering from [METU](https://metu.edu.tr/).
 
 - 🧑‍💼 I'm working at [@DeliveryHero](https://github.com/deliveryhero) as a Software Engineer.
 <br/>

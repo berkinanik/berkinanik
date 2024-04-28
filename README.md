@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 📛 I'm Berkin Anık from 🇹🇷.
+- 📛 I'm Berkin Anık from Ankara, Turkey 🇹🇷 and I live in Berlin, Germany 🇩🇪.
 
-- 🏫 I'm a B.Sc. in Electrical-Electronics Engineering from [METU](https://metu.edu.tr/).
+- 🎓 I'm a B.Sc. in Electrical-Electronics Engineering from [METU](https://metu.edu.tr/). I initially started studying Medicine at Hacettepe University but I left after 2 years to become an Engineer which I thought would suit me better.
 
-- 🧑‍💼 I'm working at [@DeliveryHero](https://github.com/deliveryhero) as a Software Engineer.
+- 🧑‍💼 I'm working at [@DeliveryHero](https://github.com/deliveryhero) as a Software Engineer. From August 2022 to December 2023, I was working remotely in Turkey and, since January 2024 I work on-site in Berlin.
 
 - 👨‍💻 As a Software Engineer, I specialize in full-stack web development. My primary focus and work experience are on the TypeScript/JavaScript ecosystem, where I leverage frameworks like React alongside tools such as Next.js, Remix, and custom SSR implementations with Express. Additionally, I proficiently develop backend services using Node.js, Deno, Python, or Go, with expertise in containerization using Docker, orchestration with Kubernetes, and management of both SQL and NoSQL databases.
 

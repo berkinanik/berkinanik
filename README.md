@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📛 I'm Berkin Anık from Ankara, Turkey 🇹🇷 and I live in Berlin, Germany 🇩🇪.
+- 📛 I'm Berkin _[bear-kin]_ Anık from Ankara, Turkey 🇹🇷 and I live in Berlin, Germany 🇩🇪.
 
 - 🎓 I'm a B.Sc. in Electrical-Electronics Engineering from [METU](https://metu.edu.tr/). I initially started studying Medicine at Hacettepe University but I left after 2 years to become an Engineer which I thought would suit me better.
 
